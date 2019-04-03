@@ -1,0 +1,53 @@
+{
+  "_from": "react-native-zendesk-chat",
+  "_id": "react-native-zendesk-chat@0.2.2",
+  "_inBundle": false,
+  "_integrity": "sha512-KVoArfs5+CAI0idC1od0aOp2y02FViq+JBVmduHs77xvC5l1D49NaZ8TfqgDpHvnkcDxCKHs5DNHQOvgKPkFsQ==",
+  "_location": "/react-native-zendesk-chat",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-zendesk-chat",
+    "name": "react-native-zendesk-chat",
+    "escapedName": "react-native-zendesk-chat",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-zendesk-chat/-/react-native-zendesk-chat-0.2.2.tgz",
+  "_shasum": "3cb0cdb3d3998ebab95863fb96765751729ce621",
+  "_spec": "react-native-zendesk-chat",
+  "_where": "D:\\ReactNative\\masoko-mobile",
+  "author": {
+    "name": "jrichardlai"
+  },
+  "bugs": {
+    "url": "https://github.com/taskrabbit/react-native-zendesk-chat/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "React Native Wrapper around Zopim Zendesk Chat",
+  "homepage": "https://github.com/taskrabbit/react-native-zendesk-chat#readme",
+  "keywords": [
+    "zendesk",
+    "chat",
+    "react-native",
+    "react",
+    "ios",
+    "android",
+    "react-component"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-zendesk-chat",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taskrabbit/react-native-zendesk-chat.git"
+  },
+  "version": "0.2.2"
+}
